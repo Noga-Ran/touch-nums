@@ -1,0 +1,47 @@
+body {
+    background-image:url("stars.jpg");
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+.modal {
+    display: none;
+    background-color: rgb(223, 101, 239);
+}
+
+.reStart {
+    border: 2px double black;
+    background-color: white;
+    font-weight: bolder;
+    display: none;
+}
+
+.playArea {
+    padding-top: 50px;
+    display: inline-block;
+}
+
+.btn {
+    background-color: lightgreen;
+    font-weight: bolder;
+    width: 50px;
+    height: 40px;
+    font-size: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    width: 400px;
+    height: 70px;
+    font-size: 32px;
+  }
+
+td{
+   background-color: bisque;
+}
